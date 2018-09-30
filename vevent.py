@@ -5,7 +5,7 @@ import re
 vevent.py
 =========
 
-github: https://github.com/redmechanic/vevent.py
+github: https://github.com/lewisc64/vevent.py
 
 Extracts basic info on all events in an iCalendar file (.ics).
 For example, to get the summary of the first event on 2017-1-18:
